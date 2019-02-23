@@ -1,3 +1,3 @@
-require "./logger"
+require './logger'
 
-Loggeer.instance.log "It`s work!"
+Loggeer.instance.log 'It`s work!'
